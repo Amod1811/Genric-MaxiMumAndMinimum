@@ -10,7 +10,6 @@ public class FindMaximum<T extends Comparable> {
     public FindMaximum(T... inputs){
         for (T value : inputs){
             this.list.add(value);
-
         }
     }
     public T testMaximum(){
