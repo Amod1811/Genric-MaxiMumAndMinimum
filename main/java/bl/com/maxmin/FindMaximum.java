@@ -35,8 +35,8 @@ public class FindMaximum<T extends Comparable> {
 
     public static void main(String[] args) {
 
-        Integer intValue1 = 300, intValue2 = 500, intvalue3 = 960, intValue4 = 1020;
-        new FindMaximum(intValue1, intValue2, intvalue3, intValue4).testMaximum();
+        Float floatValue1 = 3.3f, floatValue2 = 3.5f, floatValue3 = 8.7f;
 
+        new FindMaximum(floatValue1, floatValue2, floatValue3).testMaximum();
     }
 }
