@@ -2,7 +2,7 @@ import bl.com.maxmin.FindMaximum;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class IntegerMaximumTest {
+public class FloatMaximumTest {
     @Test
     public void findMaxTC1(){
         Float floatValue1 = 6.3f , floatValue2 = 2.5f , floatValue3 = 3.3f;
